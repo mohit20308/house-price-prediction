@@ -123,11 +123,6 @@ Content Returned: Renders the predict.html template with the predicted price emb
 - https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html
 - https://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_squared_error.html
 
-
-
-<br>
-<div style="text-align: right; margin-right: 20px;"> Mohit Ghai</div><br>
-
 ---
 
 
